@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e5d28d3e5e29c44d9442b8d98487861, type: 3}
+  m_Name: Artificer's Dream
+  m_EditorClassIdentifier: 
+  id: 7101
+  itemName: Artificer's Dream
+  itemCategory: 3
+  itemRarity: 7
+  itemSprite: {fileID: 21300000, guid: c8055e255fb23ec4c9d3105cdbe6e936, type: 3}
+  maxStackSize: 1
+  isStackable: 0
+  equippable: 1
+  attackModifier: 12
+  defenseModifier: 2
